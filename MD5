@@ -1,0 +1,16 @@
+32be96894ae417183e15aef31d7153a7 *DESCRIPTION
+35e5f9caae535cd5a2e2fcc078cffa96 *NAMESPACE
+a2a83c89ffe9063cbce4ccbec72bcb14 *R/SCRI.seq.r
+1cf8f875a89f5bb76de6f81a927164f2 *R/create.exposure.r
+e3e6939134d026b86dfc579fd610c465 *R/fun.decum.R
+1836607a4f2fec707a53b7d1107199c9 *R/fun.exposure.R
+54c8c978570900e7bdb82cdb325d49d1 *R/initialize.data.r
+b616ae0cf373ac7f79cb24441c2c21f0 *R/seq_wrapper.r
+9d7fb8b85b51c4ce9f3094394c2baa6f *R/sim.exposure.r
+3e877c82cfd3d68128c1f255492ff44d *man/SCRI.seq.Rd
+120b9f47115e8210b786aa31bca53bc6 *man/create.exposure.Rd
+61b20cebac41a5e26512f988f50004c7 *man/fun.decum.Rd
+4cacb9f2249ee26266c4aa1f1c053ccb *man/fun.exposure.Rd
+66f20cee9cf334402f67e08810dfc58f *man/initialize.data.Rd
+2c8378d9e8900cb45deef2efddad80e2 *man/seq_wrapper.Rd
+4a5d3215212c4107969245d7de0d1047 *man/sim.exposure.Rd
